@@ -11,4 +11,6 @@ link: https://www.amazon.fr/Schneider-Electric-Wiser-vanne-thermostatique/dp/B01
 link2: https://www.amazon.de/dp/B0158XIEYM
 compatible: [z4d,z2m]
 z4d: https://github.com/pipiche38/Domoticz-Zigate-Wiki/blob/master/en-eng/Wiser-Thermostat.md
+
+DISCONTINUED: https://www.se.com/uk/en/search/EER53000
 ---
